@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/sanjeevbaurai/star-war-heros-app/static/css/main.d87d0bc6.chunk.css",
-    "main.js": "/sanjeevbaurai/star-war-heros-app/static/js/main.9be78e86.chunk.js",
-    "main.js.map": "/sanjeevbaurai/star-war-heros-app/static/js/main.9be78e86.chunk.js.map",
-    "runtime-main.js": "/sanjeevbaurai/star-war-heros-app/static/js/runtime-main.598ff3b8.js",
-    "runtime-main.js.map": "/sanjeevbaurai/star-war-heros-app/static/js/runtime-main.598ff3b8.js.map",
-    "static/js/2.36791b64.chunk.js": "/sanjeevbaurai/star-war-heros-app/static/js/2.36791b64.chunk.js",
-    "static/js/2.36791b64.chunk.js.map": "/sanjeevbaurai/star-war-heros-app/static/js/2.36791b64.chunk.js.map",
-    "index.html": "/sanjeevbaurai/star-war-heros-app/index.html",
-    "precache-manifest.6eb48923874eb0013c7ee4c9832bc100.js": "/sanjeevbaurai/star-war-heros-app/precache-manifest.6eb48923874eb0013c7ee4c9832bc100.js",
-    "service-worker.js": "/sanjeevbaurai/star-war-heros-app/service-worker.js",
-    "static/css/main.d87d0bc6.chunk.css.map": "/sanjeevbaurai/star-war-heros-app/static/css/main.d87d0bc6.chunk.css.map",
-    "static/js/2.36791b64.chunk.js.LICENSE.txt": "/sanjeevbaurai/star-war-heros-app/static/js/2.36791b64.chunk.js.LICENSE.txt"
+    "main.css": "/star-war-heros-app/static/css/main.d87d0bc6.chunk.css",
+    "main.js": "/star-war-heros-app/static/js/main.9be78e86.chunk.js",
+    "main.js.map": "/star-war-heros-app/static/js/main.9be78e86.chunk.js.map",
+    "runtime-main.js": "/star-war-heros-app/static/js/runtime-main.e82d7086.js",
+    "runtime-main.js.map": "/star-war-heros-app/static/js/runtime-main.e82d7086.js.map",
+    "static/js/2.574f29e6.chunk.js": "/star-war-heros-app/static/js/2.574f29e6.chunk.js",
+    "static/js/2.574f29e6.chunk.js.map": "/star-war-heros-app/static/js/2.574f29e6.chunk.js.map",
+    "index.html": "/star-war-heros-app/index.html",
+    "precache-manifest.408c7faf7a109695d6496c2536cd94a2.js": "/star-war-heros-app/precache-manifest.408c7faf7a109695d6496c2536cd94a2.js",
+    "service-worker.js": "/star-war-heros-app/service-worker.js",
+    "static/css/main.d87d0bc6.chunk.css.map": "/star-war-heros-app/static/css/main.d87d0bc6.chunk.css.map",
+    "static/js/2.574f29e6.chunk.js.LICENSE.txt": "/star-war-heros-app/static/js/2.574f29e6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.598ff3b8.js",
-    "static/js/2.36791b64.chunk.js",
+    "static/js/runtime-main.e82d7086.js",
+    "static/js/2.574f29e6.chunk.js",
     "static/css/main.d87d0bc6.chunk.css",
     "static/js/main.9be78e86.chunk.js"
   ]
