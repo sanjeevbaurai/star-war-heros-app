@@ -15,10 +15,10 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3"
   },
-  "homepage": "https://github.com/sanjeevbaurai/star-war-heros-app",
+  "homepage": "https://sanjeevbaurai.github.io/star-war-heros-app",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":" gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": " gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -38,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
   }
 }

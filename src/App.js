@@ -27,7 +27,6 @@ function App(props) {
   const match = useRouteMatch(location.pathname !== '/' ? '/page/:id' : '/');
   const [matchId, setMatchId] = useState("1");
   const itemsPerPage = 10;
-
   useEffect(() => {
     async function fetchPeople() {
       setLoading(true);
@@ -40,9 +39,9 @@ function App(props) {
       let paramsPrev = data && data.previous ? new URL(data.previous).searchParams : null;
       setPreviousPage(paramsPrev ? paramsPrev.get('page') : null)
       setCurrentPage(paramId);
-      setMatchId(match.params.id ? match.params.id : 1);
+    //  setMatchId(match && match.params && match.paramss.id ? match.params.id : 1);
       setLoading(false);
-      history.push(location.pathname !== '/' ? `/page/${matchId}` : '/');
+      history.push(location.pathname !== '/' ? `/page/${paramId}` : '/');
     }
     fetchPeople();
   }, []);
